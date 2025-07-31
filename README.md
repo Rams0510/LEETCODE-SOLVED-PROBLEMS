@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
