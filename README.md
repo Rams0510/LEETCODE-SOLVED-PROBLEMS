@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Segment Tree
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
