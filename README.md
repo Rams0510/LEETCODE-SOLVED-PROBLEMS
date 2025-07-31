@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
