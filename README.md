@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [3330-modify-the-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3398-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
