@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3221-find-the-peaks](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3221-find-the-peaks) |
 | [3330-modify-the-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3398-make-a-square-with-the-same-color) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3221-find-the-peaks](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3221-find-the-peaks) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3398-make-a-square-with-the-same-color) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
