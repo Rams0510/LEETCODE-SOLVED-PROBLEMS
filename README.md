@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
