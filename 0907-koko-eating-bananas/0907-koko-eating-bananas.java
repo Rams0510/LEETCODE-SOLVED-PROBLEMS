@@ -9,7 +9,7 @@ class Solution {
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (getHours(piles, mid) <= h) { 
-                right = mid;
+                right = mid ;
             } else {
                 left = mid + 1; 
             }
