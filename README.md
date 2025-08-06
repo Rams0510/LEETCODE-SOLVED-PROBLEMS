@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
+| [0907-koko-eating-bananas](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3221-find-the-peaks](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3221-find-the-peaks) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
+| [0907-koko-eating-bananas](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
