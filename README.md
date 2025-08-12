@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 | [0907-koko-eating-bananas](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0907-koko-eating-bananas) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
