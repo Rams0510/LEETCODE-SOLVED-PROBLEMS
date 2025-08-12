@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0066-plus-one) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
