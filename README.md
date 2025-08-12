@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0934-bitwise-ors-of-subarrays) |
