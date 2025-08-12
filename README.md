@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
+| [0682-baseball-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0682-baseball-game) |
 | [0907-koko-eating-bananas](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0682-baseball-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
