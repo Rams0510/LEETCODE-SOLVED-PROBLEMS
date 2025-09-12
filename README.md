@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3462-vowels-game-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
 | [0812-rotate-string](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0812-rotate-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0812-rotate-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
