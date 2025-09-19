@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3221-find-the-peaks](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3221-find-the-peaks) |
 | [3330-modify-the-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3398-make-a-square-with-the-same-color) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3330-modify-the-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3398-make-a-square-with-the-same-color) |
 ## Depth-First Search
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Graph
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
