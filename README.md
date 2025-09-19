@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3221-find-the-peaks](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3221-find-the-peaks) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
 | [3330-modify-the-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3398-make-a-square-with-the-same-color) |
 ## Depth-First Search
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
+| [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
