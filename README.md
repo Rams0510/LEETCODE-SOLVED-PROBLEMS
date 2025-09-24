@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0191-number-of-1-bits) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
