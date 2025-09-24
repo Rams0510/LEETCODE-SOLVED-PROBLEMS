@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0066-plus-one) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0137-single-number-ii) |
