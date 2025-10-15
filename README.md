@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Matrix
 |  |
 | ------- |
@@ -209,4 +210,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0024-swap-nodes-in-pairs) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
