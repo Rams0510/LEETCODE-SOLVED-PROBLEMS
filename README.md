@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0191-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -210,7 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0024-swap-nodes-in-pairs) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
