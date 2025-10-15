@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0024-swap-nodes-in-pairs) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
