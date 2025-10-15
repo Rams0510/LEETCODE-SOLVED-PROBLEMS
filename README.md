@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0086-partition-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Merge Sort
