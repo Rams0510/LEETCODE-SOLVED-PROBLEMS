@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Math
 |  |
 | ------- |
