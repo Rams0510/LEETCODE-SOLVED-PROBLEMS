@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0682-baseball-game) |
 | [0907-koko-eating-bananas](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0907-koko-eating-bananas) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0322-coin-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Greedy
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
