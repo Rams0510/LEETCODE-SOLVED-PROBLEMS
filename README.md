@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3221-find-the-peaks](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3221-find-the-peaks) |
 | [3330-modify-the-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3398-make-a-square-with-the-same-color) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3330-modify-the-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/3398-make-a-square-with-the-same-color) |
 ## Depth-First Search
