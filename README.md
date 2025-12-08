@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0118-pascals-triangle) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0118-pascals-triangle) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
