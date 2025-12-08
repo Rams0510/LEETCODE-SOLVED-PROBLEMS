@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0118-pascals-triangle) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0189-rotate-array) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
