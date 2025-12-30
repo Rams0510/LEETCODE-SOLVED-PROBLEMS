@@ -167,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
