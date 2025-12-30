@@ -169,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Sliding Window
@@ -258,8 +260,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Rams0510/LEETCODE-SOLVED-PROBLEMS/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
